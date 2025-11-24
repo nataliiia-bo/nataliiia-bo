@@ -2,8 +2,8 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg4cncwejZ6bngxMDR5d2F5YThqNG5icnVidnYxNjJmaDBwbDJnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y06e2KFCG48qwNMGK2/giphy.gif" width="100"/>
 </div>
 
-<!-- <div id="badges" align="center">
-   <a href="https://stepik.org/users/576574712/profile" target="_blank" rel="noopener noreferrer">
+ <div id="badges" align="center">
+   <!-- <a href="https://stepik.org/users/576574712/profile" target="_blank" rel="noopener noreferrer">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZuamhjbGNjdDYxZGxibjgzNTFmdnN2d3lzNXV2bnR0NjVhZ2doeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l17COzMeI88CHPfBLg/giphy.gif" width="50" alt="Stepik Badge"/>
   </a> -->
   <!-- VK -->
