@@ -55,10 +55,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
-
+ <!--
 ### 🔥 My Stats
 
-[![Nataliia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliiia-bo&show_icons=true&theme=dark)](https://github.com/nataliiia-bo)
+[![Nataliia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliiia-bo&show_icons=true&theme=dark)](https://github.com/nataliiia-bo) -->
 
 ### 🔥 Top Languages
 
