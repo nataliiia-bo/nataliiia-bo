@@ -59,11 +59,11 @@
 
 </div>
  <!--
-### 🔥 My Stats
+###  My Stats
 
 [![Nataliia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliiia-bo&show_icons=true&theme=dark)](https://github.com/nataliiia-bo) -->
 
-### 🔥 Top Languages
+###  Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliiia-bo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
