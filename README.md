@@ -54,7 +54,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="vertical-align: middle;" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40" style="vertical-align: middle;" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40" style="vertical-align: middle;" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Apache Airflow" alt="Apache Airflow" width="80" height="80" style="vertical-align: middle;" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Apache Airflow" alt="Apache Airflow" width="60" height="60" style="vertical-align: middle;" />&nbsp;
 </div>
  <!--
 ### 🔥 My Stats
