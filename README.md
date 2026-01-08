@@ -21,9 +21,9 @@
   <img src="https://komarev.com/ghpvc/?username=nataliiia-bo&style=flat-square&color=green" alt="Profile views"/>
 </div>
 
-<h1 align="center">
+<h2 align="center">
   <strong>Hello, I'm Nataliia :)</strong>
-</h1>
+</h2>
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR2emo1bXgxbHQxeXV4cDBicjg2N28ycGZ2b3hzM3prNnU4b3B6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="600" height="600"/>
@@ -31,7 +31,7 @@
 
 ## 
 
--  I’m currently studying on the **'Big Data Analytics' Master’s Programme at HSE University**.<br><br>
+-  I’m currently studying on the **'Big Data Analytics' Master’s Programme at HSE University**
   <!-- <strong>The programme trains highly qualified professionals in big data storage, processing, and analysis. Programme graduates will understand methods of applied statistical analysis and machine learning, the tools of industrial development, MLOps, the basics of database management, Data Warehouse (DWH), and Data Engineering.</strong> -->
 -  I’m open to collaboration in data analytics and machine learning
 -  Available for collaboration on HTML/CSS website layout projects
