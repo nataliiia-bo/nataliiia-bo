@@ -26,7 +26,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR2emo1bXgxbHQxeXV4cDBicjg2N28ycGZ2b3hzM3prNnU4b3B6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="600" height="600"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR2emo1bXgxbHQxeXV4cDBicjg2N28ycGZ2b3hzM3prNnU4b3B6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="800" height="200"/>
 </div>
 
 ## 
