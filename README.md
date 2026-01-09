@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg4cncwejZ6bngxMDR5d2F5YThqNG5icnVidnYxNjJmaDBwbDJnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y06e2KFCG48qwNMGK2/giphy.gif" width="100"/>
 </div>
-
+<h2 align="center">
+  <strong>Hello, I'm Nataliia :)</strong>
+</h2>
 <div id="badges" align="center">
   <!-- VK -->
   <a href="https://vk.com/nataliiia_bo" target="_blank" rel="noopener noreferrer">
@@ -18,14 +20,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nataliiia-bo&style=flat-square&color=green" alt="Profile views"/>
-</div>
-
-<h2 align="center">
-  <strong>Hello, I'm Nataliia :)</strong>
-</h2>
-
-<div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR2emo1bXgxbHQxeXV4cDBicjg2N28ycGZ2b3hzM3prNnU4b3B6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="800" height="200"/>
 </div>
 
@@ -35,7 +29,7 @@
 -  I’m open to collaboration in data analytics and machine learning
 -  Available for collaboration on HTML/CSS website layout projects
 
----
+   
 
 ### Languages and Tools
 
@@ -57,14 +51,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40" style="vertical-align: middle;" />&nbsp;
 
 </div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nataliiia-bo&style=flat-square&color=green" alt="Profile views"/>
+</div>
+
  <!--
 ###  My Stats
 
-[![Nataliia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliiia-bo&show_icons=true&theme=dark)](https://github.com/nataliiia-bo) -->
+[![Nataliia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliiia-bo&show_icons=true&theme=dark)](https://github.com/nataliiia-bo) 
 
 ###  Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliiia-bo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+-->
