@@ -1,6 +1,6 @@
 <!-- Заголовочная гифка -->
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR2emo1bXgxbHQxeXV4cDBicjg2N28ycGZ2b3hzM3prNnU4b3B6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="1600" height="200" alt="Header"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR2emo1bXgxbHQxeXV4cDBicjg2N28ycGZ2b3hzM3prNnU4b3B6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="1600" height="100" alt="Header"/>
 </div>
 
 <!-- Текст под гифкой -->
