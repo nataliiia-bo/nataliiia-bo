@@ -25,6 +25,9 @@
   <a href="https://www.kaggle.com/nataliiabo" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" width="50" alt="Kaggle"/>
   </a>
+   <a href="https://www.kaggle.com/nataliiabo" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" alt="Github"/>
+  </a>
 </div>
 
 ## 
