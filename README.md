@@ -21,10 +21,10 @@
   <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    </a>
   <a href="https://www.kaggle.com/nataliiabo" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle"/>
   </a>
+   </a>
 </div>
 
 
