@@ -10,6 +10,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg4cncwejZ6bngxMDR5d2F5YThqNG5icnVidnYxNjJmaDBwbDJnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y06e2KFCG48qwNMGK2/giphy.gif" width="100"/>
 </div>
+
 <!-- Бейджи -->
 <div id="badges" align="center">
   <a href="https://vk.com/nataliiia_bo" target="_blank" rel="noopener noreferrer">
@@ -19,14 +20,12 @@
     <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/0a5d7ec84c24146cf75aad080662db93a3ef7fa5da54c0685abdf791d71beaed.gif" width="50" alt="Telegram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="50" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/nataliiabo" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" width="50" alt="Kaggle"/>
   </a>
-   </a>
 </div>
-
 
 ## 
 
