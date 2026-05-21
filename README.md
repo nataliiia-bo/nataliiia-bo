@@ -32,9 +32,9 @@
 
 ## 
 
--  I’m currently studying on the **'Big Data Analytics' Master’s Programme at HSE University**    <!-- <strong>The programme trains highly qualified professionals in big data storage, processing, and analysis. Programme graduates will understand methods of applied statistical analysis and machine learning, the tools of industrial development, MLOps, the basics of database management, Data Warehouse (DWH), and Data Engineering.</strong> -->
--  I’m open to collaboration in data analytics and machine learning
--  Available for collaboration on HTML/CSS website layout projects
+-  **HSE University Graduate**    <!-- <strong>The programme trains highly qualified professionals in big data storage, processing, and analysis. Programme graduates will understand methods of applied statistical analysis and machine learning, the tools of industrial development, MLOps, the basics of database management, Data Warehouse (DWH), and Data Engineering.</strong> -->
+-  **open to collaboration in data analytics and machine learning**
+
 
    
 
