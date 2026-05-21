@@ -5,7 +5,7 @@
 
 <!-- Текст под гифкой -->
 <h2 align="center">
-  <strong><font color="#007acc">Hello, I'm Nataliia :)</font></strong>
+  <strong><font color="#007acc">hello, i'm nataliia :)</font></strong>
 </h2>
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg4cncwejZ6bngxMDR5d2F5YThqNG5icnVidnYxNjJmaDBwbDJnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y06e2KFCG48qwNMGK2/giphy.gif" width="100"/>
@@ -38,7 +38,7 @@
 
    
 
-### Languages and Tools
+### languages and tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="40" height="40" style="vertical-align: middle;" />&nbsp;
