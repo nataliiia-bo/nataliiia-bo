@@ -19,7 +19,7 @@
   <a href="https://t.me/nataliiia_bo" target="_blank" rel="noopener noreferrer">
     <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/0a5d7ec84c24146cf75aad080662db93a3ef7fa5da54c0685abdf791d71beaed.gif" width="50" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/mwlite/profile/in/nataliia-bondarenko-274510411" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="50" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/nataliiabo" target="_blank" rel="noopener noreferrer">
